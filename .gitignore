@@ -15,3 +15,7 @@ coverage/*
 .settings
 .cproject
 .project
+
+# idea files
+.idea
+
